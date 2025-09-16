@@ -58,7 +58,7 @@
 
 <div align="center">  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tuxi4k&theme=radical&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?username=Tuxi4k&theme=radical&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuxi4k&layout=compact&theme=radical&hide_border=true)](https://github.com/casherka)  
