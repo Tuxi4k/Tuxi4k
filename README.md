@@ -70,7 +70,7 @@
 
 | Проект | Описание | Технологии |  
 |--------|----------|------------|  
-| **[Tux pizza](https://github.com/Tuxi4k/Tux-pizza)** | Сайт для покупки пиццы | `react, vite` |
+| **[Tux pizza](https://github.com/Tuxi4k/Tux-pizza)** | [Демонстрация](https://tuxi4k.github.io/Tux-pizza/) | `react, vite` |
 
 </div>  
 
