@@ -1,4 +1,4 @@
-### ⚡ **Tuxi4k**  kaserka.caserca@gmail.com
+### ⚡ **Tuxi4k**  ✉ kaserka.caserca@gmail.com
 #### *[Full-Stack Developer | AI Enthusiast ]* 
 
 
