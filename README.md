@@ -87,8 +87,6 @@
 
 #### 💾 Сам ящик
 
-<div align="center">  
 
-📮 kaserka.caserca@gmail.com
-
-</div>  
+- 📮 kaserka.caserca@gmail.com
+  
