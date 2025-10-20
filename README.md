@@ -85,7 +85,7 @@
 
 </div>
 
-### 💾 Legacy
+#### 💾 Сам ящик
 
 <div align="center">  
 
