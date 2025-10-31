@@ -26,10 +26,9 @@
 <img src="https://img.shields.io/badge/fastApi-E0234E?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_dev-0DAC54?style=for-the-badge&logo=android-studio&logoColor=white" />
 <img src="https://img.shields.io/badge/flutter-007AFF?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
 
 ---
