@@ -70,7 +70,7 @@
 | Проект | Описание | Технологии |  
 |--------|----------|------------|  
 | **[Tux pizza](https://github.com/Tuxi4k/Tux-pizza)** | [Демо](https://tuxi4k.github.io/Tux-pizza/) | `react, vite` |
-| **[VideoControlBackend](https://github.com/Tuxi4k/videoBackendOld)** | Deprecated  | `express, drizzleORM` |
+| **[VideoControlBackend](https://github.com/Tuxi4k/videoBackendOld)** | Устарел | `express, drizzleORM` |
 
 </div>  
 
