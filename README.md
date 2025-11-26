@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Android_dev-0DAC54?style=for-the-badge&logo=android-studio&logoColor=white" />
 <img src="https://img.shields.io/badge/flutter-007AFF?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/fastApi-446666?style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
 ---
