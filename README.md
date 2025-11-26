@@ -57,7 +57,7 @@
 
 <div align="center">  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuxi4k&layout=compact&theme=radical&hide_border=true)](https://github.com/casherka)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuxi4k&layout=compact&theme=radical&hide_border=true)](https://github.com/Tuxi4k)  
 
 </div>  
 
