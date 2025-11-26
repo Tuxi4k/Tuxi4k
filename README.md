@@ -51,17 +51,6 @@
 <img src="https://img.shields.io/badge/nix_os-4577D4?style=for-the-badge&logo=nixos&logoColor=white" />
 </div>
 
---- 
-
-
-### 📊 **Моя статистика**  
-
-<div align="center">  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuxi4k)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>  
-
 ---
 
 ### 🔥 **Мои проекты**  
