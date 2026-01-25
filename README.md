@@ -59,6 +59,7 @@
 
 | Проект | Описание | Технологии |  
 |--------|----------|------------|  
+| **[SwagGen](https://github.com/Tuxi4k/swaggen)** | Гибридная документация swagger | `go` |
 | **[Tux pizza](https://github.com/Tuxi4k/Tux-pizza)** | [Демо](https://tuxi4k.github.io/Tux-pizza/) | `react, vite` |
 | **[VideoControlBackend](https://github.com/Tuxi4k/videoBackendOld)** | Устарел | `express, drizzleORM` |
 
