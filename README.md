@@ -1,8 +1,6 @@
 ### ⚡ **Tuxi4k** 
 #### *[ Full-Stack Developer ]* 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clash+Display&duration=4500&pause=600&height=38&lines=---+Hi+I'am+Tuxi4k+---;---+FullStack+---;---+React%2C+Fiber+---)](https://git.io/typing-svg)
-
 ---
 
 ### 🚀 **Инструменты и технологии**  
