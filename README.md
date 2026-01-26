@@ -1,8 +1,7 @@
 ### ⚡ **Tuxi4k** 
-#### *[Full-Stack Developer | AI Enthusiast ]* 
+#### *[ Full-Stack Developer ]* 
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ClashDisplay&weight=700&size=24&duration=4500&pause=600&color=1C5FA6&vCenter=true&width=435&height=24&lines=---+Hi+i'am+Tuxi4k+---;---+Data%E2%80%94Since+---;---+FullStack+---)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clash+Display&duration=4500&pause=600&height=38&lines=---+Hi+I'am+Tuxi4k+---;---+FullStack+---;---+React%2C+Fiber+---)](https://git.io/typing-svg)
 
 ---
 
