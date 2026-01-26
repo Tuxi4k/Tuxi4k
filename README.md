@@ -38,7 +38,6 @@
 ### 🔮 **Окружения**
 
 <div align="center"> 
-<img src="https://img.shields.io/badge/wayland-FF9900?style=for-the-badge&logo=wayland&logoColor=white" />
 <img src="https://img.shields.io/badge/Hyprland-06799F?style=for-the-badge&logo=hyprland&logoColor=white" />
 <img src="https://img.shields.io/badge/XFCE4-007ACC?style=for-the-badge&logo=xfce&logoColor=white" />
 </div>
