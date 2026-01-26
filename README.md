@@ -10,12 +10,14 @@
 
 <div align="center">  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" title="React" />  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" title="Node.js" />  
+<img src="https://img.shields.io/badge/Bun-4B5563?style=for-the-badge&logo=bun&logoColor=white" />
+<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
+<img src="https://img.shields.io/badge/fastApi-E0234E?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-F73E5F?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_colab-FF9200?style=for-the-badge&logo=google-colab&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>  
 
 ---
@@ -23,13 +25,11 @@
 ### 📑 **В планах изучить**
 
 <div align="center">  
-<img src="https://img.shields.io/badge/fastApi-E0234E?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android_dev-0DAC54?style=for-the-badge&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/flutter-007AFF?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/django-446666?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React_native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Fiber-0A0A0A?style=for-the-badge&logo=fiber&logoColor=white" />
 </div>
 
 ---
