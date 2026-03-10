@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/fastApi-E0234E?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>  
 
 ---
@@ -29,24 +30,6 @@
 <img src="https://img.shields.io/badge/React_native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Fiber-0A0A0A?style=for-the-badge&logo=fiber&logoColor=white" />
-</div>
-
----
-
-### 🔮 **Окружения**
-
-<div align="center"> 
-<img src="https://img.shields.io/badge/Hyprland-06799F?style=for-the-badge&logo=hyprland&logoColor=white" />
-<img src="https://img.shields.io/badge/XFCE4-007ACC?style=for-the-badge&logo=xfce&logoColor=white" />
-</div>
-
----
-
-### 💾 **OC**
-
-<div align="center">  
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/nix_os-4577D4?style=for-the-badge&logo=nixos&logoColor=white" />
 </div>
 
 ---
