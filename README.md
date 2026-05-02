@@ -44,7 +44,6 @@
 | **[TaskFlow](https://github.com/Tuxi4k/taskflow)** | ToDo REST API | `go`, `fiber`, `gorm`, `sqlite`, `swaggo`, `swaggen` |
 | **[DHT-temp-tracker](https://github.com/Tuxi4k/DHT-temp-tracker)** | Мониторинг микроклимата на базе ESP8266 | `DHT11`, `Nodemcu V3` |
 | **[Tux pizza](https://github.com/Tuxi4k/Tux-pizza)** | [Демо](https://tuxi4k.github.io/Tux-pizza/) | `react`, `vite` |
-| **[VideoControlBackend](https://github.com/Tuxi4k/videoBackendOld)** | Устарел | `express`, `drizzleORM` |
 
 </div>  
 
