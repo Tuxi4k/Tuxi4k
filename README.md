@@ -26,7 +26,8 @@
 ### 📑 **В планах изучить**
 
 <div align="center">  
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/wasm-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white" />
 <img src="https://img.shields.io/badge/tauri-FF7A00.svg?style=for-the-badge&logo=tauri&logoColor=white" />
 <img src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
