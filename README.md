@@ -41,7 +41,7 @@
 | Проект | Описание | Технологии |  
 |--------|----------|------------|  
 | **[SwagGen](https://github.com/Tuxi4k/swaggen)** | Генератор Swagger для Go | `go`, `swaggo/swag` |
-| **[TimeSnap](https://github.com/Tuxi4k/timesnap)** | Deadline REST API | `go`, `fiber`, `gorm`, `docker`, `viper`, `swaggen` |
+| **[TimeSnap](https://github.com/Tuxi4k/timesnap)** | Deadline REST API | `go`, `fiber`, `gorm`, `docker`, `swaggen` |
 | **[TaskFlow](https://github.com/Tuxi4k/taskflow)** | ToDo REST API | `go`, `fiber`, `gorm`, `swaggen` |
 | **[DHT-temp-tracker](https://github.com/Tuxi4k/DHT-temp-tracker)** | Мониторинг микроклимата на базе ESP8266 | `DHT11`, `Nodemcu V3` |
 | **[Tux pizza](https://github.com/Tuxi4k/Tux-pizza)** | [Демо](https://tuxi4k.github.io/Tux-pizza/) | `react`, `vite` |
